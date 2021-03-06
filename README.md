@@ -6,3 +6,4 @@ ____
 
 > :white_check_mark: Topic 2: Библиотека Numpy и matplotlib
 
+> :white_check_mark: Topic 3: Библиотека Pandas
